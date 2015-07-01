@@ -26,7 +26,11 @@ words = c(
     "library!=package",
     "%<>%",
     "sell out",
-    "cloud"
+    "cloud",
+    "language war",
+    "Julia",
+    "R-bloggers",
+    "analytics"
     )
 
 card <- function(rows=5, cols=5){
